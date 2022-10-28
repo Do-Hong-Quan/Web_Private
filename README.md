@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -50,5 +50,4 @@
         </tr>
     </table>
     <h2 class="ThongTin">Yêu anh thì ấn vào đây <a href="https://www.facebook.com/D.H.Quan111">Link FB</a> !</h2>
-</body>
-</html>
+
