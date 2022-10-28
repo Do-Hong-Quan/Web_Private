@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -23,7 +23,7 @@
         <li>Định hướng trở thành Front - end.</li>
         <li>Bài hát yêu thích: Những bài hát tâm trạng.</li>
         <button><a href="https://www.youtube.com/watch?v=s4cUQy8u-k8"> Nhạc tâm trạng :((</a>
-  
+    </ul>
     <div style="background-color: rgb(135, 250, 150);">
         <h2 >Yêu cầu tuyển chọn</h2>
     </div>
@@ -50,5 +50,5 @@
         </tr>
     </table>
     <h2 class="ThongTin">Yêu anh thì ấn vào đây <a href="https://www.facebook.com/D.H.Quan111">Link FB</a> !</h2>
-
-
+</body>
+</html>
